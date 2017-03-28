@@ -14,6 +14,7 @@
 		265AD7EF1E8979F300EE85DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265AD7ED1E8979F300EE85DC /* LaunchScreen.storyboard */; };
 		265AD7FA1E8979F300EE85DC /* NavigationTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265AD7F91E8979F300EE85DC /* NavigationTestTests.swift */; };
 		265AD8051E8979F300EE85DC /* NavigationTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265AD8041E8979F300EE85DC /* NavigationTestUITests.swift */; };
+		265AD8131E897C0200EE85DC /* AddScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265AD8121E897C0200EE85DC /* AddScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		265AD8001E8979F300EE85DC /* NavigationTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		265AD8041E8979F300EE85DC /* NavigationTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTestUITests.swift; sourceTree = "<group>"; };
 		265AD8061E8979F300EE85DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		265AD8121E897C0200EE85DC /* AddScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				265AD7E41E8979F300EE85DC /* AppDelegate.swift */,
 				265AD7E61E8979F300EE85DC /* ViewController.swift */,
 				265AD7E81E8979F300EE85DC /* Main.storyboard */,
+				265AD8121E897C0200EE85DC /* AddScreenViewController.swift */,
 				265AD7EB1E8979F300EE85DC /* Assets.xcassets */,
 				265AD7ED1E8979F300EE85DC /* LaunchScreen.storyboard */,
 				265AD7F01E8979F300EE85DC /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				265AD7E71E8979F300EE85DC /* ViewController.swift in Sources */,
 				265AD7E51E8979F300EE85DC /* AppDelegate.swift in Sources */,
+				265AD8131E897C0200EE85DC /* AddScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
